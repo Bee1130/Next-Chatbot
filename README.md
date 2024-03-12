@@ -35,7 +35,7 @@ npm i
 Create a .env.local file in the root of the repo with your OpenAI API Key:
 
 ```bash
-OPENAI_API_KEY=<YOUR_KEY>
+OPENAI_API_KEY=<YOUR_API_KEY>
 ```
 
 **4. Run App**
